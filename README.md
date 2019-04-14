@@ -1,0 +1,2 @@
+# ReviewBlog
+Simple Django Project
